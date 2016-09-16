@@ -1,5 +1,29 @@
 # Simple Jekyll based styleguide
 
+This is where we grow the styleguide for [correctiv.org](https://correctiv.org). Work in progress.
+
+---
+
+Install Jekyll:
+
+```
+$ bundle
+```
+
+Install frontend dependencies:
+
+```
+$ npm install
+```
+
+Run dev server:
+
+```
+$ jekyll serve
+```
+
+---
+
 This is a simple style guide generator in [Jekyll](http://jekyllrb.com). It is not particularly original but I tried to make it as flexible as possible to correspond to various use cases.
 
 - simple list-based style guides ([Code for America styleguide](http://codeforamerica.clearleft.com/) by [Clearleft](http://clearleft.com/))
