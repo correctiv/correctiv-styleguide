@@ -1,0 +1,22 @@
+{
+  "name": "correctiv-styleguide",
+  "version": "1.0.0",
+  "description": "Style guide and pattern library for correctiv.org web apps",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/correctiv/correctiv-styleguide.git"
+  },
+  "author": "@sjockers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/correctiv/correctiv-styleguide/issues"
+  },
+  "homepage": "https://github.com/correctiv/correctiv-styleguide#readme",
+  "dependencies": {
+    "inuitcss": "^6.0.0-beta.3"
+  }
+}
